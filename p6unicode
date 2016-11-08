@@ -1,0 +1,9 @@
+use v6;
+
+=begin pod
+=TITLE P6Unicode 
+=AUTHOR 
+
+=end pod
+
+say "hello world";
