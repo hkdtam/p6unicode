@@ -6,4 +6,6 @@ use v6;
 
 =end pod
 
+# test
+
 say "hello world";
